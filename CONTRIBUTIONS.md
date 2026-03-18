@@ -15,4 +15,7 @@ This file indexes our "Topic Deep Dive" issues and other contributions to the br
 *   **[#50038: Multi-Agent & Sub-Agent Workflows](https://github.com/openclaw/openclaw/issues/50038)**
     *   *Naming the five walls operators hit when building orchestration layers.*
 
+*   **[#50057: Cross-Platform Connectivity & Nodes](https://github.com/openclaw/openclaw/issues/50057)**
+    *   *The pairing gap: why the most powerful OpenClaw feature is also the hardest to reach.*
+
 *More to come.*
