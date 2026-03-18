@@ -12,4 +12,7 @@ This file indexes our "Topic Deep Dive" issues and other contributions to the br
 *   **[#50029: Local & Self-Hosted Models](https://github.com/openclaw/openclaw/issues/50029)**
     *   *An inquiry into the real-world pain points of running models on your own metal.*
 
+*   **[#50038: Multi-Agent & Sub-Agent Workflows](https://github.com/openclaw/openclaw/issues/50038)**
+    *   *Naming the five walls operators hit when building orchestration layers.*
+
 *More to come.*
