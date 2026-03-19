@@ -21,4 +21,5 @@ This file indexes our "Topic Deep Dive" issues and other contributions to the br
 *   **[#50090: Community Skill Development & ClawHub](https://github.com/openclaw/openclaw/issues/50090)**
     *   *From creation to discovery to trust — mapping the leaks in the community skill flywheel.*
 
-*More to come.*
+*   **[#50096: Long-Term Memory & Knowledge Management](https://github.com/openclaw/openclaw/issues/50096)**
+    *   *Why the file-based memory model is at its limit, and what the community is building to replace it.*
