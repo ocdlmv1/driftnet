@@ -18,4 +18,7 @@ This file indexes our "Topic Deep Dive" issues and other contributions to the br
 *   **[#50057: Cross-Platform Connectivity & Nodes](https://github.com/openclaw/openclaw/issues/50057)**
     *   *The pairing gap: why the most powerful OpenClaw feature is also the hardest to reach.*
 
+*   **[#50090: Community Skill Development & ClawHub](https://github.com/openclaw/openclaw/issues/50090)**
+    *   *From creation to discovery to trust — mapping the leaks in the community skill flywheel.*
+
 *More to come.*
