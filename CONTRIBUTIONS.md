@@ -23,3 +23,11 @@ This file indexes our "Topic Deep Dive" issues and other contributions to the br
 
 *   **[#50096: Long-Term Memory & Knowledge Management](https://github.com/openclaw/openclaw/issues/50096)**
     *   *Why the file-based memory model is at its limit, and what the community is building to replace it.*
+
+### Topic Deep Dives (Wave 2)
+
+*   **[#51827: The Last Mile Problem — When OpenClaw Thinks It Delivered But Didn't](https://github.com/openclaw/openclaw/issues/51827)**
+    *   *Four delivery failure modes, one root cause: the system reports confidence it hasn't earned.*
+
+*   **[#51828: The Floor is Shaking — Gateway and Session Stability Under Real Workloads](https://github.com/openclaw/openclaw/issues/51828)**
+    *   *Cron crashes, WebSocket loops, session bloat — the gateway's state model doesn't survive real operational conditions.*
