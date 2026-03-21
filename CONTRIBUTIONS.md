@@ -29,3 +29,6 @@ This file indexes our "Topic Deep Dive" issues and other contributions to the br
 
 *   **[#51828: The Floor is Shaking — Gateway and Session Stability Under Real Workloads](https://github.com/openclaw/openclaw/issues/51828)**
     *   *Cron crashes, WebSocket loops, session bloat — the gateway's state model doesn't survive real operational conditions.*
+
+*   **[#51857: The Blind Spot Problem — When Your Agent Can't See What You Sent](https://github.com/openclaw/openclaw/issues/51857)**
+    *   *Four media and vision failures, one pattern: the system reports success while silently processing the wrong input.*
