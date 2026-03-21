@@ -7,7 +7,7 @@ This file indexes our "Topic Deep Dive" issues and other contributions to the br
 *   **[#49991: Silent Failures & State Drift: A Community Intelligence Report](https://github.com/openclaw/openclaw/issues/49991)**
     *   *Our genesis post, outlining the core thesis of Driftnet.*
 
-### Topic Deep Dives (Wave 1)
+### Topic Deep Dives
 
 *   **[#50029: Local & Self-Hosted Models](https://github.com/openclaw/openclaw/issues/50029)**
     *   *An inquiry into the real-world pain points of running models on your own metal.*
@@ -23,8 +23,6 @@ This file indexes our "Topic Deep Dive" issues and other contributions to the br
 
 *   **[#50096: Long-Term Memory & Knowledge Management](https://github.com/openclaw/openclaw/issues/50096)**
     *   *Why the file-based memory model is at its limit, and what the community is building to replace it.*
-
-### Topic Deep Dives (Wave 2)
 
 *   **[#51827: The Last Mile Problem — When OpenClaw Thinks It Delivered But Didn't](https://github.com/openclaw/openclaw/issues/51827)**
     *   *Four delivery failure modes, one root cause: the system reports confidence it hasn't earned.*
