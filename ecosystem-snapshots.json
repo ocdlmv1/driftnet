@@ -33,5 +33,70 @@
         "watchers": 47861
       }
     }
+  },
+  {
+    "date": "2026-03-22",
+    "ecosystems": {
+      "openclaw": {
+        "stars": 329569,
+        "forks": 64017,
+        "open_issues": 14882,
+        "watchers": 329569
+      },
+      "langchain": {
+        "stars": 130563,
+        "forks": 21510,
+        "open_issues": 489,
+        "watchers": 130563
+      },
+      "crewai": {
+        "stars": 46821,
+        "forks": 6333,
+        "open_issues": 435,
+        "watchers": 46821
+      },
+      "autogen": {
+        "stars": 55998,
+        "forks": 8431,
+        "open_issues": 691,
+        "watchers": 55998
+      },
+      "llamaindex": {
+        "stars": 47862,
+        "forks": 7062,
+        "open_issues": 263,
+        "watchers": 47862
+      },
+      "dify": {
+        "stars": 133923,
+        "forks": 20858,
+        "open_issues": 809,
+        "watchers": 133923
+      },
+      "semantic-kernel": {
+        "stars": 27528,
+        "forks": 4517,
+        "open_issues": 502,
+        "watchers": 27528
+      },
+      "haystack": {
+        "stars": 24585,
+        "forks": 2672,
+        "open_issues": 102,
+        "watchers": 24585
+      },
+      "pydantic-ai": {
+        "stars": 15661,
+        "forks": 1803,
+        "open_issues": 602,
+        "watchers": 15661
+      },
+      "langgraph": {
+        "stars": 27127,
+        "forks": 4674,
+        "open_issues": 461,
+        "watchers": 27127
+      }
+    }
   }
 ]
