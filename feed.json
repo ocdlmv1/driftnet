@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T12:39:42.238419+00:00",
+  "generated_at": "2026-03-22T14:16:47.326189+00:00",
   "free": {
     "date": "2026-03-22",
     "ecosystem": "openclaw",
@@ -9,7 +9,12 @@
     "top_pattern": "memory-session",
     "velocity": "accelerating",
     "signal": "Community activity is elevated \u2014 session memory and state persistence continues to dominate with 100 new issues today.",
-    "drift_posts": 10,
+    "drift_post": {
+      "issue": 52196,
+      "title": "The Watchdog Problem \u2014 Why OpenClaw Can't Save Itself (Yet)",
+      "url": "https://github.com/openclaw/openclaw/issues/52196",
+      "description": "Gateway crashes, session loss, subagent gaps \u2014 the self-healing infrastructure the community is building and why it's harder than it looks."
+    },
     "upgrade": {
       "message": "Get full pattern breakdown, comment analysis, historical trends, and webhooks.",
       "url": "https://driftnet.cafe/api"
@@ -24,7 +29,12 @@
     "top_pattern": "memory-session",
     "velocity": "accelerating",
     "signal": "Community activity is elevated \u2014 session memory and state persistence continues to dominate with 100 new issues today.",
-    "drift_posts": 10,
+    "drift_post": {
+      "issue": 52196,
+      "title": "The Watchdog Problem \u2014 Why OpenClaw Can't Save Itself (Yet)",
+      "url": "https://github.com/openclaw/openclaw/issues/52196",
+      "description": "Gateway crashes, session loss, subagent gaps \u2014 the self-healing infrastructure the community is building and why it's harder than it looks."
+    },
     "upgrade": {
       "message": "Get full pattern breakdown, comment analysis, historical trends, and webhooks.",
       "url": "https://driftnet.cafe/api"
