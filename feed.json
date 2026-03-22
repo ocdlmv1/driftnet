@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T14:16:47.326189+00:00",
+  "generated_at": "2026-03-22T14:23:17.668833+00:00",
   "free": {
     "date": "2026-03-22",
     "ecosystem": "openclaw",
@@ -17,7 +17,7 @@
     },
     "upgrade": {
       "message": "Get full pattern breakdown, comment analysis, historical trends, and webhooks.",
-      "url": "https://driftnet.cafe/api"
+      "cta": "Feedback or suggestions? github.com/ocdlmv1/driftnet"
     }
   },
   "premium": {
@@ -37,7 +37,7 @@
     },
     "upgrade": {
       "message": "Get full pattern breakdown, comment analysis, historical trends, and webhooks.",
-      "url": "https://driftnet.cafe/api"
+      "cta": "Feedback or suggestions? github.com/ocdlmv1/driftnet"
     },
     "patterns": [
       {
