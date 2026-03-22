@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2026-03-22",
+    "ecosystems": {
+      "openclaw": {
+        "stars": 329501,
+        "forks": 63999,
+        "open_issues": 14871,
+        "watchers": 329501
+      },
+      "langchain": {
+        "stars": 130561,
+        "forks": 21509,
+        "open_issues": 489,
+        "watchers": 130561
+      },
+      "crewai": {
+        "stars": 46819,
+        "forks": 6332,
+        "open_issues": 434,
+        "watchers": 46819
+      },
+      "autogen": {
+        "stars": 55997,
+        "forks": 8430,
+        "open_issues": 691,
+        "watchers": 55997
+      },
+      "llamaindex": {
+        "stars": 47861,
+        "forks": 7062,
+        "open_issues": 263,
+        "watchers": 47861
+      }
+    }
+  }
+]
