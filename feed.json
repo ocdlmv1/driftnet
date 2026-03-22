@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-03-22T15:12:37.212009+00:00",
+  "generated_at": "2026-03-22T15:17:18.146972+00:00",
   "free": {
     "date": "2026-03-22",
     "ecosystem": "openclaw",
-    "stars": 329739,
-    "forks": 64058,
-    "open_issues": 14908,
-    "new_issues_today": 500,
+    "stars": 329748,
+    "forks": 64059,
+    "open_issues": 14909,
+    "new_issues_today": 375,
     "active_issues_today": 500,
-    "contributors_today": 314,
-    "weekly_avg": 71.4,
+    "contributors_today": 313,
+    "weekly_avg": 806.3,
     "top_pattern": "gateway-stability",
-    "velocity": "accelerating",
-    "signal": "500 new issues today \u2014 above the 71/day weekly average. Gateway stability and recovery is the dominant signal.",
+    "velocity": "slowing",
+    "signal": "Quieter than usual \u2014 375 new issues against a 806/day weekly average. Gateway stability and recovery remains the leading pattern.",
     "drift_post": {
       "issue": 52196,
       "title": "The Watchdog Problem \u2014 Why OpenClaw Can't Save Itself (Yet)",
@@ -21,9 +21,9 @@
     },
     "comment_signal": {
       "sentiment": "active",
-      "hot_thread": "75",
+      "hot_thread": "49836",
       "hot_thread_comments": 30,
-      "signal": "Active discussion across top threads. Issue #75 is the hottest with 30 comments."
+      "signal": "Active discussion across top threads. Issue #49836 is the hottest with 30 comments."
     },
     "upgrade": {
       "message": "Get full pattern breakdown, comment analysis, historical trends, and webhooks.",
