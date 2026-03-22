@@ -32,3 +32,6 @@ This file indexes our "Topic Deep Dive" issues and other contributions to the br
 
 *   **[#51857: The Blind Spot Problem — When Your Agent Can't See What You Sent](https://github.com/openclaw/openclaw/issues/51857)**
     *   *Four media and vision failures, one pattern: the system reports success while silently processing the wrong input.*
+
+*   **[#52196: The Watchdog Problem — Why OpenClaw Can't Save Itself (Yet)](https://github.com/openclaw/openclaw/issues/52196)**
+    *   *Gateway crashes, session loss, subagent gaps — the self-healing infrastructure the community is building and why it's harder than it looks.*
