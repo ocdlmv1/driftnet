@@ -1,14 +1,18 @@
 {
-  "generated_at": "2026-03-22T14:23:17.668833+00:00",
+  "generated_at": "2026-03-22T14:33:07.648115+00:00",
   "free": {
     "date": "2026-03-22",
     "ecosystem": "openclaw",
-    "community_members": 13393,
-    "total_issues": 21430,
-    "new_issues_today": 100,
-    "top_pattern": "memory-session",
+    "stars": 329665,
+    "forks": 64044,
+    "open_issues": 14892,
+    "new_issues_today": 500,
+    "active_issues_today": 500,
+    "contributors_today": 314,
+    "weekly_avg": 71.4,
+    "top_pattern": "gateway-stability",
     "velocity": "accelerating",
-    "signal": "Community activity is elevated \u2014 session memory and state persistence continues to dominate with 100 new issues today.",
+    "signal": "500 new issues today \u2014 above the 71/day weekly average. Gateway stability and recovery is the dominant signal.",
     "drift_post": {
       "issue": 52196,
       "title": "The Watchdog Problem \u2014 Why OpenClaw Can't Save Itself (Yet)",
@@ -18,220 +22,6 @@
     "upgrade": {
       "message": "Get full pattern breakdown, comment analysis, historical trends, and webhooks.",
       "cta": "Feedback or suggestions? github.com/ocdlmv1/driftnet"
-    }
-  },
-  "premium": {
-    "date": "2026-03-22",
-    "ecosystem": "openclaw",
-    "community_members": 13393,
-    "total_issues": 21430,
-    "new_issues_today": 100,
-    "top_pattern": "memory-session",
-    "velocity": "accelerating",
-    "signal": "Community activity is elevated \u2014 session memory and state persistence continues to dominate with 100 new issues today.",
-    "drift_post": {
-      "issue": 52196,
-      "title": "The Watchdog Problem \u2014 Why OpenClaw Can't Save Itself (Yet)",
-      "url": "https://github.com/openclaw/openclaw/issues/52196",
-      "description": "Gateway crashes, session loss, subagent gaps \u2014 the self-healing infrastructure the community is building and why it's harder than it looks."
-    },
-    "upgrade": {
-      "message": "Get full pattern breakdown, comment analysis, historical trends, and webhooks.",
-      "cta": "Feedback or suggestions? github.com/ocdlmv1/driftnet"
-    },
-    "patterns": [
-      {
-        "name": "memory-session",
-        "count": 4210,
-        "examples": [
-          "#8: Track and persist Claude's returned session ID for conversation contin",
-          "#79: Bug: Session Deletion from UI Causes Message Corruption",
-          "#81: Dockerized Sessions"
-        ]
-      },
-      {
-        "name": "multi-channel",
-        "count": 3959,
-        "examples": [
-          "#7: WhatsApp voice notes fail without explicit \"audio/ogg; codecs=opus\" mi",
-          "#12: Feature Request: Group Chat Support & Per-Chat Configuration",
-          "#13: Feature Request: Group Chat Mention Detection"
-        ]
-      },
-      {
-        "name": "gateway-stability",
-        "count": 2789,
-        "examples": [
-          "#2: Login fails with 'WebSocket Error (socket hang up)' ECONNRESET",
-          "#52: silent restarts",
-          "#60: Gateway fails to start - hardcoded dev paths in bundled binary (ENOENT"
-        ]
-      },
-      {
-        "name": "config-schema",
-        "count": 2136,
-        "examples": [
-          "#12: Feature Request: Group Chat Support & Per-Chat Configuration",
-          "#18: RPC agent configuration not working",
-          "#26: README config example uses --mode json but code always forces --mode r"
-        ]
-      },
-      {
-        "name": "vision-media",
-        "count": 1962,
-        "examples": [
-          "#4: Images not passed to Claude CLI - only path reference in text",
-          "#9: sendMessageWeb() only handles images, should support audio/video/docum",
-          "#36: XLSX files sent as binary/unknown type on WhatsApp - missing MIME type"
-        ]
-      },
-      {
-        "name": "silent-failure",
-        "count": 1627,
-        "examples": [
-          "#36: XLSX files sent as binary/unknown type on WhatsApp - missing MIME type",
-          "#43: LaunchAgent fails with code 127 - missing .env file",
-          "#52: silent restarts"
-        ]
-      },
-      {
-        "name": "auth-oauth",
-        "count": 1523,
-        "examples": [
-          "#41: stripHeartbeatToken fails to strip repeated _OK suffixes, causing spam",
-          "#76: Bug: Telegram cron job delivery fails with \"TELEGRAM_BOT_TOKEN is requ",
-          "#77: Tailscale Serve auth fails when accessing from the same machine"
-        ]
-      },
-      {
-        "name": "delivery-failure",
-        "count": 1220,
-        "examples": [
-          "#76: Bug: Telegram cron job delivery fails with \"TELEGRAM_BOT_TOKEN is requ",
-          "#219: iMessage auto-delivery leaks AI internal thoughts as real messages",
-          "#253: Clawdbot not able to reply to SMS - imsg rpc problem"
-        ]
-      },
-      {
-        "name": "multi-agent",
-        "count": 848,
-        "examples": [
-          "#186: Claude Code subagents fail to spawn - PTY not allocated for child proc",
-          "#528: sessions_spawn: child agent runs default to whatsapp provider instead ",
-          "#546: Broadcast Groups: Multi-Agent Responses for Team-Based Workflows"
-        ]
-      },
-      {
-        "name": "local-models",
-        "count": 271,
-        "examples": [
-          "#651: \ud83d\udca1 Idea: Clawdspace - Self-hosted sandboxed execution environments",
-          "#1531: [Feature]: Ollama integration",
-          "#1669: Ollama provider ignores apiKey config, always sends 'ollama' as Bearer"
-        ]
-      }
-    ],
-    "top_authors": [
-      {
-        "name": "coygeek",
-        "count": 142
-      },
-      {
-        "name": "fr33d3m0n",
-        "count": 68
-      },
-      {
-        "name": "johnlanni",
-        "count": 44
-      },
-      {
-        "name": "LeoFanKm",
-        "count": 38
-      },
-      {
-        "name": "ymxkj2006",
-        "count": 37
-      },
-      {
-        "name": "mcaxtr",
-        "count": 36
-      },
-      {
-        "name": "HenryLoenwind",
-        "count": 34
-      },
-      {
-        "name": "carrotRakko",
-        "count": 33
-      },
-      {
-        "name": "Lukavyi",
-        "count": 30
-      },
-      {
-        "name": "bmendonca3",
-        "count": 30
-      }
-    ],
-    "most_discussed": [
-      {
-        "number": 3460,
-        "title": "Internationalization (i18n) & Localization Support",
-        "comments": 112
-      },
-      {
-        "number": 45471,
-        "title": "[Bug]: UI chat not opening",
-        "comments": 76
-      },
-      {
-        "number": 26534,
-        "title": "Add DingTalk as a first-install channel option",
-        "comments": 75
-      },
-      {
-        "number": 8650,
-        "title": "[Feature]: Request: Switch Built-in Feishu Plugin to @m1heng/clawdbot-feishu/\u8acb\u6c42\uff1a\u5c07\u5167\u7f6e\u98db\u66f8\u63d2\u4ef6\u5207\u63db\u70ba @m1heng/clawdbot-feishu",
-        "comments": 69
-      },
-      {
-        "number": 32828,
-        "title": "[Bug]: False 'API rate limit reached' on all models despite APIs being fully functional",
-        "comments": 56
-      },
-      {
-        "number": 4111,
-        "title": "[Bug]:This version of Antigravity is no longer supported. Please update to receive the latest features!",
-        "comments": 53
-      },
-      {
-        "number": 75,
-        "title": "Linux/Windows Clawdbot Apps",
-        "comments": 46
-      },
-      {
-        "number": 5030,
-        "title": "[Bug]: no output",
-        "comments": 39
-      },
-      {
-        "number": 7559,
-        "title": "\ud83d\udcf1 Request iOS/Android TestFlight/Beta Access - @cnshenyi",
-        "comments": 38
-      },
-      {
-        "number": 4855,
-        "title": "[Bug]: Control UI assets not found on npm global install (resolveControlUiDistIndexPath fails)",
-        "comments": 37
-      }
-    ],
-    "meta": {
-      "total": 21430,
-      "open": 8799,
-      "closed": 12631,
-      "authors": 13393,
-      "avg_per_day": 220.9,
-      "date_range": "2025-11-27 to 2026-03-21"
     }
   }
 }
