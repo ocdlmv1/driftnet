@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T14:33:07.648115+00:00",
+  "generated_at": "2026-03-22T15:12:37.212009+00:00",
   "free": {
     "date": "2026-03-22",
     "ecosystem": "openclaw",
-    "stars": 329665,
-    "forks": 64044,
-    "open_issues": 14892,
+    "stars": 329739,
+    "forks": 64058,
+    "open_issues": 14908,
     "new_issues_today": 500,
     "active_issues_today": 500,
     "contributors_today": 314,
@@ -18,6 +18,12 @@
       "title": "The Watchdog Problem \u2014 Why OpenClaw Can't Save Itself (Yet)",
       "url": "https://github.com/openclaw/openclaw/issues/52196",
       "description": "Gateway crashes, session loss, subagent gaps \u2014 the self-healing infrastructure the community is building and why it's harder than it looks."
+    },
+    "comment_signal": {
+      "sentiment": "active",
+      "hot_thread": "75",
+      "hot_thread_comments": 30,
+      "signal": "Active discussion across top threads. Issue #75 is the hottest with 30 comments."
     },
     "upgrade": {
       "message": "Get full pattern breakdown, comment analysis, historical trends, and webhooks.",
