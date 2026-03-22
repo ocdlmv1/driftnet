@@ -1,4 +1,7 @@
 # Driftnet Community Contributions
+> **Archived as of 2026-03-22. Source of truth moved to `drift-posts.json`.**
+
+
 
 This file indexes our "Topic Deep Dive" issues and other contributions to the broader OpenClaw community. The primary conversations happen on the main `openclaw/openclaw` repository; this serves as a central reference.
 
