@@ -1,13 +1,12 @@
 {
-  "generated_at": "2026-03-22T15:17:18.146972+00:00",
+  "generated_at": "2026-03-22T15:19:38.717245+00:00",
   "free": {
     "date": "2026-03-22",
     "ecosystem": "openclaw",
-    "stars": 329748,
-    "forks": 64059,
-    "open_issues": 14909,
+    "stars": 329750,
+    "forks": 64060,
+    "open_issues": 14908,
     "new_issues_today": 375,
-    "active_issues_today": 500,
     "contributors_today": 313,
     "weekly_avg": 806.3,
     "top_pattern": "gateway-stability",
