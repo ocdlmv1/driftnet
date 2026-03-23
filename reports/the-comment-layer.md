@@ -1,7 +1,7 @@
 # The Comment Layer
 ### What 41,000 Community Conversations Reveal About Where Agents Are Breaking
 
-*Driftnet Intelligence Report No. 1 — Draft*
+Driftnet Intelligence Report No. 2*
 *Data period: November 27, 2025 – March 21, 2026*
 *Published: March 2026*
 
@@ -135,5 +135,5 @@ Site: driftnet.cafe
 
 ---
 
-*Driftnet Intelligence Report No. 1 — Draft for review*
+Driftnet Intelligence Report No. 2
 *Data: November 27, 2025 – March 21, 2026 | 21,430 issues | 41,288 comments | 13,393 contributors*
