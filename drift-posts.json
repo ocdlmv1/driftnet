@@ -39,7 +39,7 @@
     "issue": 50090,
     "title": "Community Skill Development & ClawHub",
     "url": "https://github.com/openclaw/openclaw/issues/50090",
-    "description": "From creation to discovery to trust — mapping the leaks in the community skill flywheel.",
+    "description": "From creation to discovery to trust \u2014 mapping the leaks in the community skill flywheel.",
     "date": "2026-03-10",
     "pattern": "config-schema",
     "status": "live"
@@ -55,7 +55,7 @@
   },
   {
     "issue": 51827,
-    "title": "The Last Mile Problem — When OpenClaw Thinks It Delivered But Didn't",
+    "title": "The Last Mile Problem \u2014 When OpenClaw Thinks It Delivered But Didn't",
     "url": "https://github.com/openclaw/openclaw/issues/51827",
     "description": "Four delivery failure modes, one root cause: the system reports confidence it hasn't earned.",
     "date": "2026-03-20",
@@ -64,16 +64,16 @@
   },
   {
     "issue": 51828,
-    "title": "The Floor is Shaking — Gateway and Session Stability Under Real Workloads",
+    "title": "The Floor is Shaking \u2014 Gateway and Session Stability Under Real Workloads",
     "url": "https://github.com/openclaw/openclaw/issues/51828",
-    "description": "Cron crashes, WebSocket loops, session bloat — the gateway's state model doesn't survive real operational conditions.",
+    "description": "Cron crashes, WebSocket loops, session bloat \u2014 the gateway's state model doesn't survive real operational conditions.",
     "date": "2026-03-20",
     "pattern": "gateway-stability",
     "status": "live"
   },
   {
     "issue": 51857,
-    "title": "The Blind Spot Problem — When Your Agent Can't See What You Sent",
+    "title": "The Blind Spot Problem \u2014 When Your Agent Can't See What You Sent",
     "url": "https://github.com/openclaw/openclaw/issues/51857",
     "description": "Four media and vision failures, one pattern: the system reports success while silently processing the wrong input.",
     "date": "2026-03-21",
@@ -82,11 +82,20 @@
   },
   {
     "issue": 52196,
-    "title": "The Watchdog Problem — Why OpenClaw Can't Save Itself (Yet)",
+    "title": "The Watchdog Problem \u2014 Why OpenClaw Can't Save Itself (Yet)",
     "url": "https://github.com/openclaw/openclaw/issues/52196",
-    "description": "Gateway crashes, session loss, subagent gaps — the self-healing infrastructure the community is building and why it's harder than it looks.",
+    "description": "Gateway crashes, session loss, subagent gaps \u2014 the self-healing infrastructure the community is building and why it's harder than it looks.",
     "date": "2026-03-22",
     "pattern": "gateway-stability",
+    "status": "live"
+  },
+  {
+    "issue": 52549,
+    "title": "The Silent Failures Problem \u2014 What the Community Is Running Into",
+    "url": "https://github.com/openclaw/openclaw/issues/52549",
+    "description": "Silent Failures \u2014 what the community is running into and what the pattern reveals.",
+    "date": "2026-03-23",
+    "pattern": "silent-failure",
     "status": "live"
   }
 ]
