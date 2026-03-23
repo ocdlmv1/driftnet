@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-03-22T20:31:03.452975+00:00",
+  "generated_at": "2026-03-23T05:30:09.705686+00:00",
   "free": {
-    "date": "2026-03-22",
+    "date": "2026-03-23",
     "ecosystem": "openclaw",
-    "stars": 330068,
-    "forks": 64171,
-    "open_issues": 15019,
-    "new_issues_today": 531,
-    "new_comments_today": 0,
-    "contributors_today": 340,
-    "weekly_avg": 828.6,
+    "stars": 330706,
+    "forks": 64347,
+    "open_issues": 14880,
+    "new_issues_today": 118,
+    "new_comments_today": 2119,
+    "contributors_today": 361,
+    "weekly_avg": 706.0,
     "top_pattern": "gateway-stability",
     "velocity": "slowing",
-    "signal": "Quieter than usual \u2014 531 new issues against a 829/day weekly average. Gateway stability and recovery remains the leading pattern.",
+    "signal": "Quieter than usual \u2014 118 new issues against a 706/day weekly average. Gateway stability and recovery remains the leading pattern.",
     "drift_post": {
-      "issue": 52196,
-      "title": "The Watchdog Problem \u2014 Why OpenClaw Can't Save Itself (Yet)",
-      "url": "https://github.com/openclaw/openclaw/issues/52196",
-      "description": "Gateway crashes, session loss, subagent gaps \u2014 the self-healing infrastructure the community is building and why it's harder than it looks."
+      "issue": 52549,
+      "title": "The Silent Failures Problem \u2014 What the Community Is Running Into",
+      "url": "https://github.com/openclaw/openclaw/issues/52549",
+      "description": "Silent Failures \u2014 what the community is running into and what the pattern reveals."
     },
     "comment_signal": {
       "sentiment": "active",
-      "hot_thread": "49836",
-      "hot_thread_comments": 30,
-      "signal": "Active discussion across top threads. Issue #49836 is the hottest with 30 comments."
+      "hot_thread": "50314",
+      "hot_thread_comments": 54,
+      "signal": "Active discussion across top threads. Issue #50314 is the hottest with 54 comments."
     },
     "upgrade": {
       "message": "Get full pattern breakdown, comment analysis, historical trends, and webhooks.",
