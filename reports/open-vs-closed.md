@@ -1,9 +1,9 @@
 # Open vs. Closed
 ### Why the Biggest Agent Platforms Aren't on This Page
 
-Driftnet Intelligence Report No. 1*
-*Data: March 23, 2026*
-*Published: March 2026*
+Driftnet Intelligence Report No. 1
+
+Data: March 23, 2026 — Published: March 2026
 
 ---
 
@@ -122,5 +122,5 @@ Community posts: github.com/openclaw/openclaw (search "Driftnet")
 
 ---
 
-Driftnet Intelligence Report No. 1*
-*Data: March 23, 2026 | 10 ecosystems tracked | 330,690 stars (OpenClaw)*
+Driftnet Intelligence Report No. 1
+Data: March 23, 2026 | 10 ecosystems tracked | 330,690 stars (OpenClaw)
