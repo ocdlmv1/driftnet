@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-03-24T20:43:24.419602+00:00",
+  "generated_at": "2026-03-24T20:55:14.931588+00:00",
   "free": {
     "date": "2026-03-24",
     "ecosystem": "openclaw",
-    "stars": 334249,
-    "forks": 65185,
-    "open_issues": 15357,
-    "closed_issues": 7083,
-    "total_issues": 22440,
-    "new_issues_today": 715,
+    "stars": 334261,
+    "stars_delta_today": 2158,
+    "forks": 65186,
+    "open_issues": 15362,
+    "closed_issues": 7081,
+    "total_issues": 22443,
+    "new_issues_today": 720,
     "new_comments_today": 2075,
     "total_comments": 45482,
     "contributors_today": 357,
-    "weekly_avg": 766.4,
+    "weekly_avg": 767.1,
     "top_pattern": "gateway-stability",
     "velocity": "steady",
-    "signal": "715 new issues today, tracking the weekly average of 766/day. Gateway stability and recovery is the dominant pattern.",
+    "signal": "720 new issues today, tracking the weekly average of 767/day. Gateway stability and recovery is the dominant pattern.",
     "drift_post": {
       "issue": 53265,
       "title": "The Cross-Platform Channels Problem \u2014 What the Community Is Running Into",
@@ -31,6 +32,68 @@
     "upgrade": {
       "message": "Get full pattern breakdown, comment analysis, historical trends, and webhooks.",
       "cta": "Feedback or suggestions? github.com/ocdlmv1/driftnet"
+    },
+    "ecosystems": {
+      "openclaw": {
+        "stars": 332848,
+        "stars_direction": "up",
+        "open_issues": 15059,
+        "open_issues_direction": "up"
+      },
+      "langchain": {
+        "stars": 130812,
+        "stars_direction": "up",
+        "open_issues": 477,
+        "open_issues_direction": "down"
+      },
+      "crewai": {
+        "stars": 47022,
+        "stars_direction": "up",
+        "open_issues": 451,
+        "open_issues_direction": "up"
+      },
+      "autogen": {
+        "stars": 56105,
+        "stars_direction": "up",
+        "open_issues": 700,
+        "open_issues_direction": "up"
+      },
+      "llamaindex": {
+        "stars": 47921,
+        "stars_direction": "up",
+        "open_issues": 275,
+        "open_issues_direction": "up"
+      },
+      "dify": {
+        "stars": 134179,
+        "stars_direction": "up",
+        "open_issues": 800,
+        "open_issues_direction": "down"
+      },
+      "semantic-kernel": {
+        "stars": 27535,
+        "stars_direction": "up",
+        "open_issues": 495,
+        "open_issues_direction": "down"
+      },
+      "haystack": {
+        "stars": 24594,
+        "stars_direction": "up",
+        "open_issues": 102,
+        "open_issues_direction": "flat"
+      },
+      "pydantic-ai": {
+        "stars": 15720,
+        "stars_direction": "up",
+        "open_issues": 611,
+        "open_issues_direction": "up"
+      },
+      "langgraph": {
+        "stars": 27300,
+        "stars_direction": "up",
+        "open_issues": 467,
+        "open_issues_direction": "up"
+      }
     }
   }
 }
