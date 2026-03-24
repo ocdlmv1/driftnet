@@ -115,5 +115,14 @@
     "date": "2026-03-23",
     "pattern": "delivery-failure",
     "status": "live"
+  },
+  {
+    "issue": 53334,
+    "title": "The ClawHub Problem — Who's Actually Watching the Skill Layer?",
+    "url": "https://github.com/openclaw/openclaw/issues/53334",
+    "description": "2,136 config issues, 1,076 skill conversations, 209 ClawHub mentions — the distribution layer for OpenClaw's most powerful feature has a trust gap nobody's talking about.",
+    "date": "2026-03-23",
+    "pattern": "config-schema",
+    "status": "live"
   }
 ]
