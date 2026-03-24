@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-03-23T05:30:09.705686+00:00",
+  "generated_at": "2026-03-24T05:30:09.143516+00:00",
   "free": {
-    "date": "2026-03-23",
+    "date": "2026-03-24",
     "ecosystem": "openclaw",
-    "stars": 330706,
-    "forks": 64347,
-    "open_issues": 14880,
-    "new_issues_today": 118,
-    "new_comments_today": 2119,
-    "contributors_today": 361,
-    "weekly_avg": 706.0,
+    "stars": 332869,
+    "forks": 64881,
+    "open_issues": 15056,
+    "new_issues_today": 185,
+    "new_comments_today": 2075,
+    "contributors_today": 355,
+    "weekly_avg": 690.7,
     "top_pattern": "gateway-stability",
     "velocity": "slowing",
-    "signal": "Quieter than usual \u2014 118 new issues against a 706/day weekly average. Gateway stability and recovery remains the leading pattern.",
+    "signal": "Quieter than usual \u2014 185 new issues against a 691/day weekly average. Gateway stability and recovery remains the leading pattern.",
     "drift_post": {
-      "issue": 52549,
-      "title": "The Silent Failures Problem \u2014 What the Community Is Running Into",
-      "url": "https://github.com/openclaw/openclaw/issues/52549",
-      "description": "Silent Failures \u2014 what the community is running into and what the pattern reveals."
+      "issue": 53265,
+      "title": "The Cross-Platform Channels Problem \u2014 What the Community Is Running Into",
+      "url": "https://github.com/openclaw/openclaw/issues/53265",
+      "description": "Cross-Platform Channels \u2014 what the community is running into and what the pattern reveals."
     },
     "comment_signal": {
       "sentiment": "active",
-      "hot_thread": "50314",
-      "hot_thread_comments": 54,
-      "signal": "Active discussion across top threads. Issue #50314 is the hottest with 54 comments."
+      "hot_thread": "52705",
+      "hot_thread_comments": 63,
+      "signal": "Active discussion across top threads. Issue #52705 is the hottest with 63 comments."
     },
     "upgrade": {
       "message": "Get full pattern breakdown, comment analysis, historical trends, and webhooks.",
