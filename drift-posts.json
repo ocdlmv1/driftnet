@@ -97,5 +97,14 @@
     "date": "2026-03-23",
     "pattern": "silent-failure",
     "status": "live"
+  },
+  {
+    "issue": 53265,
+    "title": "The Cross-Platform Channels Problem \u2014 What the Community Is Running Into",
+    "url": "https://github.com/openclaw/openclaw/issues/53265",
+    "description": "Cross-Platform Channels \u2014 what the community is running into and what the pattern reveals.",
+    "date": "2026-03-24",
+    "pattern": "multi-channel",
+    "status": "live"
   }
 ]
