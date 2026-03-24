@@ -106,5 +106,14 @@
     "date": "2026-03-24",
     "pattern": "multi-channel",
     "status": "live"
+  },
+  {
+    "issue": 53324,
+    "title": "The Gap Between Your Agent and Your Pocket",
+    "url": "https://github.com/openclaw/openclaw/issues/53324",
+    "description": "3,959 channel failures, 2,637 notification gap conversations — the trust problem hiding between your agent and the interface you actually use.",
+    "date": "2026-03-23",
+    "pattern": "delivery-failure",
+    "status": "live"
   }
 ]
