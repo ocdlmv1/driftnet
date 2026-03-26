@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-03-25T13:10:14.574659+00:00",
+  "generated_at": "2026-03-26T05:30:08.941564+00:00",
   "free": {
-    "date": "2026-03-25",
+    "date": "2026-03-26",
     "ecosystem": "openclaw",
-    "stars": 335404,
-    "stars_delta_today": 1921,
-    "forks": 65504,
-    "open_issues": 9311,
-    "closed_issues": 13384,
-    "closed_issues_delta_today": null,
-    "total_issues": 22695,
-    "new_issues_today": 379,
-    "new_comments_today": 1141,
-    "total_comments": 46623,
-    "contributors_today": 309,
-    "weekly_avg": 736.1,
+    "stars": 336293,
+    "stars_delta_today": 1504,
+    "forks": 65775,
+    "open_issues": 9316,
+    "closed_issues": 13604,
+    "closed_issues_delta_today": 251,
+    "total_issues": 22920,
+    "new_issues_today": 170,
+    "new_comments_today": 1643,
+    "total_comments": 48266,
+    "contributors_today": 354,
+    "weekly_avg": 689.7,
     "top_pattern": "gateway-stability",
     "velocity": "slowing",
-    "signal": "Quieter than usual \u2014 379 new issues against a 736/day weekly average. Gateway stability and recovery remains the leading pattern.",
+    "signal": "Quieter than usual \u2014 170 new issues against a 690/day weekly average. Gateway stability and recovery remains the leading pattern.",
     "drift_post": {
       "issue": 54123,
       "title": "The Session Memory & State Problem \u2014 What the Community Is Running Into",
@@ -26,9 +26,9 @@
     },
     "comment_signal": {
       "sentiment": "active",
-      "hot_thread": "52705",
-      "hot_thread_comments": 63,
-      "signal": "Active discussion across top threads. Issue #52705 is the hottest with 63 comments."
+      "hot_thread": "52823",
+      "hot_thread_comments": 64,
+      "signal": "Active discussion across top threads. Issue #52823 is the hottest with 64 comments."
     },
     "upgrade": {
       "message": "Get full pattern breakdown, comment analysis, historical trends, and webhooks.",
@@ -36,63 +36,63 @@
     },
     "ecosystems": {
       "openclaw": {
-        "stars": 334769,
+        "stars": 336273,
         "stars_direction": "up",
-        "open_issues": 15360,
+        "open_issues": 15543,
         "open_issues_direction": "up"
       },
       "langchain": {
-        "stars": 130956,
+        "stars": 131114,
         "stars_direction": "up",
-        "open_issues": 485,
+        "open_issues": 500,
         "open_issues_direction": "up"
       },
       "crewai": {
-        "stars": 47126,
+        "stars": 47235,
         "stars_direction": "up",
-        "open_issues": 454,
-        "open_issues_direction": "up"
+        "open_issues": 450,
+        "open_issues_direction": "down"
       },
       "autogen": {
-        "stars": 56164,
+        "stars": 56220,
         "stars_direction": "up",
-        "open_issues": 701,
+        "open_issues": 705,
         "open_issues_direction": "up"
       },
       "llamaindex": {
-        "stars": 47963,
+        "stars": 47990,
         "stars_direction": "up",
-        "open_issues": 250,
-        "open_issues_direction": "down"
+        "open_issues": 255,
+        "open_issues_direction": "up"
       },
       "dify": {
-        "stars": 134325,
+        "stars": 134480,
         "stars_direction": "up",
-        "open_issues": 785,
-        "open_issues_direction": "down"
+        "open_issues": 796,
+        "open_issues_direction": "up"
       },
       "semantic-kernel": {
-        "stars": 27547,
+        "stars": 27568,
         "stars_direction": "up",
-        "open_issues": 492,
+        "open_issues": 489,
         "open_issues_direction": "down"
       },
       "haystack": {
-        "stars": 24607,
+        "stars": 24617,
         "stars_direction": "up",
-        "open_issues": 100,
-        "open_issues_direction": "down"
+        "open_issues": 107,
+        "open_issues_direction": "up"
       },
       "pydantic-ai": {
-        "stars": 15756,
+        "stars": 15785,
         "stars_direction": "up",
-        "open_issues": 609,
-        "open_issues_direction": "down"
+        "open_issues": 610,
+        "open_issues_direction": "up"
       },
       "langgraph": {
-        "stars": 27402,
+        "stars": 27499,
         "stars_direction": "up",
-        "open_issues": 469,
+        "open_issues": 470,
         "open_issues_direction": "up"
       }
     }
